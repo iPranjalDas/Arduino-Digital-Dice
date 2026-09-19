@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.hex
+*.elf
+__pycache__/
+*.bin
